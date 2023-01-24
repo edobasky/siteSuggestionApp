@@ -1,6 +1,6 @@
 ﻿
 
-namespace SuggestionAppUI.Models
+namespace SuggestionAppLibrary.Models
 {
     public class CategoryModel
     {

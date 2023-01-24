@@ -1,5 +1,4 @@
 ﻿
-using SuggestionAppUI.Models;
 
 namespace SuggestionAppLibrary.Models
 {

@@ -1,5 +1,4 @@
 ﻿using MongoDB.Driver;
-using SuggestionAppUI.Models;
 
 namespace SuggestionAppLibrary.DataAccess
 {
