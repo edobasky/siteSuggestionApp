@@ -25,7 +25,7 @@ namespace SuggestionAppLibrary.DataAccess
         public async Task<UserModel> GetUserFromAuthentication(string objectId)
         {
             var result = await _users.FindAsync(u => u.ObjectIdentifier == objectId);
-            return result.FirstOrDefault();
+            return result.FirstOrDefault(); 
         }
 
         public Task CreateUser(UserModel user)
