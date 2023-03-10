@@ -9,7 +9,7 @@ namespace SuggestionAppLibrary.DataAccess
     {
         private readonly IMongoCollection<StatusModel> _statuses;
         private readonly IMemoryCache _cache;
-        private const string CacheName = "StatusData";
+        private const string cacheName = "StatusData";
 
         public MongoStatusData(IDbConnection db, IMemoryCache cache)
         {

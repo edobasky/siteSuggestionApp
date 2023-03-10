@@ -1,11 +1,11 @@
+C:\Users\hp\Desktop\CinematicCode\SuggestionApp\SuggestionAppLibrary\bin\Debug\net6.0\SuggestionAppLibrary.deps.json
+C:\Users\hp\Desktop\CinematicCode\SuggestionApp\SuggestionAppLibrary\bin\Debug\net6.0\SuggestionAppLibrary.dll
+C:\Users\hp\Desktop\CinematicCode\SuggestionApp\SuggestionAppLibrary\bin\Debug\net6.0\SuggestionAppLibrary.pdb
 C:\Users\hp\Desktop\CinematicCode\SuggestionApp\SuggestionAppLibrary\obj\Debug\net6.0\SuggestionAppLibrary.csproj.AssemblyReference.cache
 C:\Users\hp\Desktop\CinematicCode\SuggestionApp\SuggestionAppLibrary\obj\Debug\net6.0\SuggestionAppLibrary.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\hp\Desktop\CinematicCode\SuggestionApp\SuggestionAppLibrary\obj\Debug\net6.0\SuggestionAppLibrary.AssemblyInfoInputs.cache
 C:\Users\hp\Desktop\CinematicCode\SuggestionApp\SuggestionAppLibrary\obj\Debug\net6.0\SuggestionAppLibrary.AssemblyInfo.cs
 C:\Users\hp\Desktop\CinematicCode\SuggestionApp\SuggestionAppLibrary\obj\Debug\net6.0\SuggestionAppLibrary.csproj.CoreCompileInputs.cache
-C:\Users\hp\Desktop\CinematicCode\SuggestionApp\SuggestionAppLibrary\bin\Debug\net6.0\SuggestionAppLibrary.deps.json
-C:\Users\hp\Desktop\CinematicCode\SuggestionApp\SuggestionAppLibrary\bin\Debug\net6.0\SuggestionAppLibrary.dll
-C:\Users\hp\Desktop\CinematicCode\SuggestionApp\SuggestionAppLibrary\bin\Debug\net6.0\SuggestionAppLibrary.pdb
 C:\Users\hp\Desktop\CinematicCode\SuggestionApp\SuggestionAppLibrary\obj\Debug\net6.0\SuggestionAppLibrary.dll
 C:\Users\hp\Desktop\CinematicCode\SuggestionApp\SuggestionAppLibrary\obj\Debug\net6.0\refint\SuggestionAppLibrary.dll
 C:\Users\hp\Desktop\CinematicCode\SuggestionApp\SuggestionAppLibrary\obj\Debug\net6.0\SuggestionAppLibrary.pdb

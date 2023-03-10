@@ -1,11 +1,3 @@
-C:\Users\hp\Desktop\CinematicCode\SuggestionApp\SuggestionAppUI\obj\Debug\net6.0\SuggestionAppUI.csproj.AssemblyReference.cache
-C:\Users\hp\Desktop\CinematicCode\SuggestionApp\SuggestionAppUI\obj\Debug\net6.0\SuggestionAppUI.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\hp\Desktop\CinematicCode\SuggestionApp\SuggestionAppUI\obj\Debug\net6.0\SuggestionAppUI.AssemblyInfoInputs.cache
-C:\Users\hp\Desktop\CinematicCode\SuggestionApp\SuggestionAppUI\obj\Debug\net6.0\SuggestionAppUI.AssemblyInfo.cs
-C:\Users\hp\Desktop\CinematicCode\SuggestionApp\SuggestionAppUI\obj\Debug\net6.0\SuggestionAppUI.csproj.CoreCompileInputs.cache
-C:\Users\hp\Desktop\CinematicCode\SuggestionApp\SuggestionAppUI\obj\Debug\net6.0\SuggestionAppUI.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\hp\Desktop\CinematicCode\SuggestionApp\SuggestionAppUI\obj\Debug\net6.0\SuggestionAppUI.RazorAssemblyInfo.cache
-C:\Users\hp\Desktop\CinematicCode\SuggestionApp\SuggestionAppUI\obj\Debug\net6.0\SuggestionAppUI.RazorAssemblyInfo.cs
 C:\Users\hp\Desktop\CinematicCode\SuggestionApp\SuggestionAppUI\bin\Debug\net6.0\appsettings.Development.json
 C:\Users\hp\Desktop\CinematicCode\SuggestionApp\SuggestionAppUI\bin\Debug\net6.0\appsettings.json
 C:\Users\hp\Desktop\CinematicCode\SuggestionApp\SuggestionAppUI\bin\Debug\net6.0\SuggestionAppUI.staticwebassets.runtime.json
@@ -61,6 +53,15 @@ C:\Users\hp\Desktop\CinematicCode\SuggestionApp\SuggestionAppUI\bin\Debug\net6.0
 C:\Users\hp\Desktop\CinematicCode\SuggestionApp\SuggestionAppUI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\hp\Desktop\CinematicCode\SuggestionApp\SuggestionAppUI\bin\Debug\net6.0\SuggestionAppLibrary.dll
 C:\Users\hp\Desktop\CinematicCode\SuggestionApp\SuggestionAppUI\bin\Debug\net6.0\SuggestionAppLibrary.pdb
+C:\Users\hp\Desktop\CinematicCode\SuggestionApp\SuggestionAppUI\obj\Debug\net6.0\SuggestionAppUI.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\CinematicCode\SuggestionApp\SuggestionAppUI\obj\Debug\net6.0\SuggestionAppUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\CinematicCode\SuggestionApp\SuggestionAppUI\obj\Debug\net6.0\SuggestionAppUI.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\CinematicCode\SuggestionApp\SuggestionAppUI\obj\Debug\net6.0\SuggestionAppUI.AssemblyInfo.cs
+C:\Users\hp\Desktop\CinematicCode\SuggestionApp\SuggestionAppUI\obj\Debug\net6.0\SuggestionAppUI.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\CinematicCode\SuggestionApp\SuggestionAppUI\obj\Debug\net6.0\SuggestionAppUI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hp\Desktop\CinematicCode\SuggestionApp\SuggestionAppUI\obj\Debug\net6.0\SuggestionAppUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\Desktop\CinematicCode\SuggestionApp\SuggestionAppUI\obj\Debug\net6.0\SuggestionAppUI.RazorAssemblyInfo.cache
+C:\Users\hp\Desktop\CinematicCode\SuggestionApp\SuggestionAppUI\obj\Debug\net6.0\SuggestionAppUI.RazorAssemblyInfo.cs
 C:\Users\hp\Desktop\CinematicCode\SuggestionApp\SuggestionAppUI\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\hp\Desktop\CinematicCode\SuggestionApp\SuggestionAppUI\obj\Debug\net6.0\staticwebassets.development.json
 C:\Users\hp\Desktop\CinematicCode\SuggestionApp\SuggestionAppUI\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
